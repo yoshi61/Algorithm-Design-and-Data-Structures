@@ -1,2 +1,2 @@
-# Algorithm-Data-Structure-Analysis
-Algorithm &amp; Data Structure Analysis (2017)
+# Algorithm-Design-and-Data-Structures
+Algorithm Design and Data Structures  (2017)
